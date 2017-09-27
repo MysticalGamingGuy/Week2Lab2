@@ -13,6 +13,6 @@
     </head>
     <body>
         <h1>Main Page</h1>
-        <p>Hello, ${user} <a href="loginservlet?message=Logout">Logout</a></p>
+        <p>Hello, ${user} <a href="loginservlet?message=Logged Out">Logout</a></p>
     </body>
 </html>
